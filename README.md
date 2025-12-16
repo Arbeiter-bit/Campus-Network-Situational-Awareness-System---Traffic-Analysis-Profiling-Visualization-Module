@@ -457,7 +457,6 @@ curl http://localhost:5000/api/user_profiles
 
 **最后更新**：2025 年 12 月 1 日
 
-**功能展示**
 
 
 
